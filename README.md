@@ -7,3 +7,6 @@
 - git push 
 - git rebase
 - git stash
+- git tag
+- git .gitignore
+- git log
